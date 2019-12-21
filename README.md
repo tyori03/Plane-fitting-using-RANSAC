@@ -1,4 +1,4 @@
-# Plane-fitting-with-RANSAC
+# Plane-fitting-using-RANSAC
 Plane fitting with RANSAC written in Python.
 
 Python上でRANSAC法を用いて平面推定を行うプログラム
